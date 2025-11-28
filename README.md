@@ -1,0 +1,1 @@
+# Postman_Echo_Test [![Java CI with Gradle](https://github.com/A-Serafimskaya/Postman_Echo_Test/actions/workflows/gradle.yml/badge.svg)](https://github.com/A-Serafimskaya/Postman_Echo_Test/actions/workflows/gradle.yml)
